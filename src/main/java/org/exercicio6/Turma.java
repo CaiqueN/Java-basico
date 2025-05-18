@@ -37,7 +37,6 @@ public class Turma {
         Aluno a4 = new Aluno("Sir Cassio", "004");
         Aluno a5 = new Aluno("Rafa", "005");
 
-
         turmaA.adicionarAluno(a1);
         turmaA.adicionarAluno(a2);
         turmaA.adicionarAluno(a3);
